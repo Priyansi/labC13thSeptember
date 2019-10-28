@@ -1,6 +1,5 @@
 //Fuction for calculating GCD
 #include<stdio.h>
-#include<math.h>
 int gcd(int a,int b)
 {
 int i,g;
